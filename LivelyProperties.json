@@ -1,0 +1,7 @@
+{
+  "showFPS": {
+    "type": "checkbox",
+    "value": false,
+    "text": "Show FPS"
+  }
+}

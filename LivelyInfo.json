@@ -1,0 +1,12 @@
+{
+  "AppVersion": "1.0.0.0",
+  "Title": "Amazin Art Shader",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Desc": "Matrix like rain animation using HTML5 Canvas.",
+  "Author": "Bartek Kansy",
+  "License": "MIT",
+  "Contact": "https://github.com/Bartus131313",
+  "Type": 1,
+  "FileName": "index.html"
+}

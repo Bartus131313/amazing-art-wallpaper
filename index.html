@@ -1,0 +1,27 @@
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Shader Wallpaper</title>
+        <link rel="stylesheet" href="style.css">
+    </head>
+    <body onload="InitWallpaper();">
+        <canvas id="wallpaper-canvas"></canvas>
+
+        <div class="overlay">
+            <button class="overlay-btn">
+                <img src="https://img.icons8.com/?size=100&id=2969&format=png&color=ffffff" alt="settings-icon">
+            </button>
+            <div class="overlay-frame">
+                <a id="show-fps-label active">Show FPS</a>
+            </div>
+        </div>
+
+        <div class="info-frame">
+            <a class="fps-label">FPS: 0</a>
+        </div>
+
+        <script src="app.js"></script>
+        <script src="overlay.js"></script>
+    </body>
+</html>
